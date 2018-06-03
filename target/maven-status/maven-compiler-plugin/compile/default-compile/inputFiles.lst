@@ -1,0 +1,5 @@
+/home/sangmin/oauth2-server/src/main/java/com/example/demo/OAuth2Application.java
+/home/sangmin/oauth2-server/src/main/java/com/example/demo/domain/Member_role.java
+/home/sangmin/oauth2-server/src/main/java/com/example/demo/rest/MemberController.java
+/home/sangmin/oauth2-server/src/main/java/com/example/demo/repository/MemberRepository.java
+/home/sangmin/oauth2-server/src/main/java/com/example/demo/service/CustomedUserDetailsService.java
